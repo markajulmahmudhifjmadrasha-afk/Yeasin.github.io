@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>আস-সুন্নাহ হিফজুল কোরআন মাদ্রাসা</title>
+<style>
+body{margin:0;background:#f3f8f3;color:#183b2b;font-family:Arial,sans-serif;line-height:1.8}
+header{background:#08743f;color:white;text-align:center;padding:22px 12px}
+.logo{width:135px;height:135px;object-fit:contain;border-radius:50%;background:white;padding:5px}
+h1{font-size:24px}
+main{max-width:750px;margin:20px auto;padding:0 12px}
+.card{background:white;padding:18px;margin:15px 0;border-radius:12px;box-shadow:0 2px 10px #0001}
+h2{color:#08743f;border-bottom:2px solid #dceade}
+table{width:100%;border-collapse:collapse;text-align:center}
+td,th{border:1px solid #cbded0;padding:9px}
+th{background:#08743f;color:white}
+.contact{text-align:center;background:#eff8f1;padding:12px;margin:12px 0;border-radius:9px}
+.phone{font-size:22px;font-weight:bold;color:#08743f}
+.icons{display:flex;justify-content:center;gap:9px;flex-wrap:wrap}
+.app{background:white;border:1px solid #ddd;border-radius:8px;padding:5px 9px}
+.circle{display:inline-grid;place-items:center;width:23px;height:23px;border-radius:50%;color:white;font-weight:bold}
+.bk{background:#d92378}.ng{background:#ed7900}.imo{background:#168be0}.wa{background:#20a65a}
+footer{background:#075b38;color:white;text-align:center;padding:18px}
+a{color:#08743f}
+</style>
+</head>
+<body>
+<header>
+<img class="logo" src="logo.png" alt="মাদ্রাসার লোগো">
+<h1>আস-সুন্নাহ হিফজুল কোরআন মাদ্রাসা</h1>
+<p>নূরানী তা'লিমুল কুরআন চট্টগ্রাম বোর্ড কর্তৃক নিবন্ধনকৃত</p>
+<p>নিবন্ধন নং: ৪০০৪১০১৯০</p>
+<p>গোপালনগর, ফরিদপুর, পাবনা</p>
+</header>
+<main>
+<div class="card">
+<h2>ভর্তি ফি</h2>
+<p>সকল শ্রেণি ও বিভাগের ভর্তি ফি: <b>৫০০ টাকা</b></p>
+</div>
+<div class="card">
+<h2>মাসিক বেতনের তালিকা</h2>
+<table>
+<tr><th>শ্রেণি / বিভাগ</th><th>বেতন</th></tr>
+<tr><td>নার্সারি</td><td>৫০০ টাকা</td></tr>
+<tr><td>১ম শ্রেণি</td><td>৫০০ টাকা</td></tr>
+<tr><td>২য় শ্রেণি</td><td>৮০০ টাকা</td></tr>
+<tr><td>৩য় শ্রেণি</td><td>৮০০ টাকা</td></tr>
+<tr><td>৪র্থ শ্রেণি</td><td>৮০০ টাকা</td></tr>
+<tr><td>৫ম শ্রেণি</td><td>১০০০ টাকা</td></tr>
+<tr><td>হিফজ বিভাগ</td><td>১০০০ টাকা</td></tr>
+</table>
+</div>
+<div class="card">
+<h2>যোগাযোগ ও পেমেন্ট</h2>
+<div class="contact">
+<div class="phone">01990140434</div>
+<div class="icons">
+<span class="app"><b class="circle bk">ব</b> বিকাশ</span>
+<span class="app"><b class="circle ng">ন</b> নগদ</span>
+</div>
+</div>
+<div class="contact">
+<div class="phone">01869354035</div>
+<div class="icons">
+<span class="app"><b class="circle bk">ব</b> বিকাশ</span>
+<span class="app"><b class="circle ng">ন</b> নগদ</span>
+<span class="app"><b class="circle imo">i</b> ইমু</span>
+<span class="app"><b class="circle wa">W</b> WhatsApp</span>
+</div>
+</div>
+</div>
+<div class="card" style="text-align:center">
+<h2>পরিচালক</h2>
+<b>হাঃ মাঃ ক্বারী ইয়াছিন মাহমুদ নূরী</b>
+</div>
+<div class="card" style="text-align:center">
+<h2>ফেসবুক পেজ</h2>
+<a href="https://www.facebook.com/profile.php?id=61585266980139">আমাদের ফেসবুক পেজ</a>
+</div>
+</main>
+<footer>আস-সুন্নাহ হিফজুল কোরআন মাদ্রাসা</footer>
+</body>
+</html>
